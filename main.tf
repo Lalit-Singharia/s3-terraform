@@ -15,7 +15,7 @@ resource "aws_s3_bucket" "tf_code" {
 
 	froce_destroy = true
 
-	tags {
+	tags = {
 
 		Name = "tf_bucket"
 
