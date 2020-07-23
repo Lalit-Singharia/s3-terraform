@@ -5,7 +5,7 @@ variable file are used for variable name
 
 output file for output of main file 
 
-main file for using deloying bucket 
+main file for deloying bucket 
 
 after these three file check or update enviorment variable such as AWS secret access key and AWS access key.
 
